@@ -1,8 +1,11 @@
 # CODSOFT
 CODSOFT
 ______________________________________
-TASK 1
-TO-DO LIST
+![image](https://github.com/AUBAI-ALKHABBAZ/CODSOFT/assets/102236043/6da0a1ec-41e5-4365-83fa-da1907993499)
+
+______________________________________
+TASK 1\n
+TO-DO LIST\n
 A To-Do List application is a useful project that helps users manage
 and organize their tasks efficiently. This project aims to create a
 command-line or GUI-based application using Python, allowing
